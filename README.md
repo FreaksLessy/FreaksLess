@@ -77,7 +77,4 @@
 </div>
 
 ###
-
-<img src="https://raw.githubusercontent.com/FreaksLessy/FreaksLessy/output/snake.svg" alt="Snake animation" />
-
 ###
